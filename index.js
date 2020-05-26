@@ -32,18 +32,3 @@ function sayHiToGrandma(string) {
   return ("I love you, too.")
   
   }
-  /*
-function sayHiToGrandma(string){
-  
-  var lowercase.toLowerCase()=== lowercase
-  var uppercase.toUpperCase()=== uppercase
-  var mixedCase==="I love you, Grandma."
- 
-  if (lowercase===lowercase.toLowerCase)
-  {return ("I can't hear you!")}
-  else if (uppercase===uppercase.toUpperCase)
-  {return ("YES INDEED!")}
-  else (string="I love you, Grandma.")
-  {return ("I love you, too.")}
-} 
- */ 
